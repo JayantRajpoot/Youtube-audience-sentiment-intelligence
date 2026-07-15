@@ -1,116 +1,112 @@
-﻿comment,uppercase_count,comment_length,word_count,emoji_count,exclamation_count,question_count,clean_comment,compound,sentiment
+﻿comment,uppercase_count,comment_length,word_count,emoji_count,exclamation_count,question_count,clean_comment,compound,sentiment,emotion_data,emotion,emotion_score
 "Geni Kamki here❤️
 Thank you so much latent for giving so much love and the best memory of my life 🥰
-Yes sirrrrrrrr🪱❣️",4,117,23,4,0,0,geni kamki here❤️ thank you so much latent for giving so much love and the best memory of my life 🥰 yes sirrrrrrrr🪱❣️,0.9814,Positive
-I watched this under 1 million ☠️📈,1,34,7,2,0,0,i watched this under 1 million ☠️📈,0.0,Neutral
-SPEAK UP ABOUT SONAM WANGCHUK AND THE SACRIFICE HE IS MAKING FOR THE  EDUCATION SYSTEM,71,86,15,0,0,0,speak up about sonam wangchuk and the sacrifice he is making for the education system,0.0,Neutral
-"Nice show yaar, mera break up ho gya aj or soch raha tha uski bina meh mar jaunga but after i see this show main usko khud call karke bola jaha jao ma chu*ao😂",1,158,34,1,0,0,"nice show yaar, mera break up ho gya aj or soch raha tha uski bina meh mar jaunga but after i see this show main usko khud call karke bola jaha jao ma chu*ao😂",0.6808,Positive
-Yesss sirrrr 💅🏻😭😋,1,17,3,3,0,0,yesss sirrrr 💅🏻😭😋,-0.4767,Negative
-Amazing hai yaar 2 3 baar dekh liya giny kitni kuchu puchuuu hai ywar ❤,1,71,15,1,0,0,amazing hai yaar 2 3 baar dekh liya giny kitni kuchu puchuuu hai ywar ❤,0.8402,Positive
-The worst episode ever from IGL... 👎😭..,4,39,7,2,0,0,the worst episode ever from igl... 👎😭..,-0.802,Negative
-Sirf blanders pride ka ads aa raha hei 🙄,1,40,9,1,0,0,sirf blanders pride ka ads aa raha hei 🙄,0.34,Positive
-21:09 pehele chalo 😂,0,20,4,1,0,0,21:09 pehele chalo 😂,0.4404,Positive
-57:24 ye bohot mast laga yaar 🤣🤣🤣🤣,0,34,7,4,0,0,57:24 ye bohot mast laga yaar 🤣🤣🤣🤣,0.9153,Positive
-Next video tak upload kro ge bhai 😢,1,35,8,1,0,0,next video tak upload kro ge bhai 😢,-0.4767,Negative
-Awesome work,1,12,2,0,0,0,awesome work,0.6249,Positive
-7:50 amit bhai for crazy xyz😅,0,29,6,1,0,0,7:50 amit bhai for crazy xyz😅,0.0258,Neutral
-Ek baar 20 tarek ko sonam je ke protest pe support dedo. Bechara etna sab kuch karraha hai. Kohi celebrity nahi ko sport men nahi kohi actor abe tak ek awaz tho chodo tweet tak nahi keya. En badwo ko hame ne ameer banaya aur aaj sabe palat gaye. Don’t be like them. Its our natio protect it.,6,291,58,0,0,0,ek baar 20 tarek ko sonam je ke protest pe support dedo. bechara etna sab kuch karraha hai. kohi celebrity nahi ko sport men nahi kohi actor abe tak ek awaz tho chodo tweet tak nahi keya. en badwo ko hame ne ameer banaya aur aaj sabe palat gaye. don’t be like them. its our natio protect it.,0.7003,Positive
-Ep1<<<<<<ep2,1,12,1,0,0,0,ep1<<<<<<ep2,0.0,Neutral
-aree vaii. next episode kab dalo geee..?,0,40,7,0,0,1,aree vaii. next episode kab dalo geee..?,0.0,Neutral
-अगर आप CJP का प्रोटेस्ट में नहीं जाओगें तो हम भी आप का वीडियो नही देखेगे। हो सकता हैं आपको कोई फर्क न पारे पर 100 रुपया में 1 रुपया का बहुत महत्व होता है,3,153,35,0,0,0,अगर आप cjp का प्रोटेस्ट में नहीं जाओगें तो हम भी आप का वीडियो नही देखेगे। हो सकता हैं आपको कोई फर्क न पारे पर 100 रुपया में 1 रुपया का बहुत महत्व होता है,0.0,Neutral
-37:54 best of latent s2,0,23,5,0,0,0,37:54 best of latent s2,0.6369,Positive
-Best of season 2,1,16,4,0,0,0,best of season 2,0.6369,Positive
-Bhai aap ne blenders Pride ke saath Collab kardiya hai kya sirf usike ad aate hain.,3,83,16,0,0,0,bhai aap ne blenders pride ke saath collab kardiya hai kya sirf usike ad aate hain.,0.34,Positive
+Yes sirrrrrrrr🪱❣️",4,117,23,4,0,0,geni kamki here❤️ thank you so much latent for giving so much love and the best memory of my life 🥰 yes sirrrrrrrr🪱❣️,0.9814,Positive,"{'emotion': 'joy', 'emotion_score': 0.9456515312194824}",joy,0.9456515312194824
+Geni is a real powerhouse…she’s very talented,1,45,7,0,0,0,geni is a real powerhouse…she’s very talented,0.5563,Positive,"{'emotion': 'neutral', 'emotion_score': 0.4483756124973297}",neutral,0.4483756124973297
+57:18 best moment 😂😂 57:23,0,26,5,2,0,0,57:18 best moment 😂😂 57:23,0.875,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7725169062614441}",neutral,0.7725169062614441
+Why voice is like that? I started just & then left watching it. It looks so fake.,3,81,17,0,0,1,why voice is like that? i started just & then left watching it. it looks so fake.,-0.3593,Negative,"{'emotion': 'surprise', 'emotion_score': 0.828678548336029}",surprise,0.828678548336029
+Bhai ye scripts hai q Up ki police juth bol the hai yogi khud bharastacar hai,2,77,16,0,0,0,bhai ye scripts hai q up ki police juth bol the hai yogi khud bharastacar hai,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.5033518671989441}",neutral,0.5033518671989441
+Chandan bhaiya 😂,1,16,3,1,0,0,chandan bhaiya 😂,0.4404,Positive,"{'emotion': 'neutral', 'emotion_score': 0.9481788873672485}",neutral,0.9481788873672485
+Where is Ep 3 🥲🥲 ???????like if u r waiting too,2,47,11,2,0,7,where is ep 3 🥲🥲 ???????like if u r waiting too,0.5362,Positive,"{'emotion': 'neutral', 'emotion_score': 0.523902416229248}",neutral,0.523902416229248
+Support cjp sonam wangchuk,1,26,4,0,0,0,support cjp sonam wangchuk,0.4019,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6945362091064453}",neutral,0.6945362091064453
+"4 offensive baat bolke i love you so much bhai , play safe play safe boi",0,72,16,0,0,0,"4 offensive baat bolke i love you so much bhai , play safe play safe boi",0.8957,Positive,"{'emotion': 'joy', 'emotion_score': 0.9658368825912476}",joy,0.9658368825912476
+46:34 😂😂,0,8,2,2,0,0,46:34 😂😂,0.7003,Positive,"{'emotion': 'neutral', 'emotion_score': 0.9178264737129211}",neutral,0.9178264737129211
+37:25 Best constable Sir ❤❤,2,27,5,2,0,0,37:25 best constable sir ❤❤,0.9274,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8593767285346985}",neutral,0.8593767285346985
+Suna hai firse lag gaye apke 😂,1,30,7,1,0,0,suna hai firse lag gaye apke 😂,0.128,Positive,"{'emotion': 'neutral', 'emotion_score': 0.43050616979599}",neutral,0.43050616979599
+Chandan bhai ki puri koshish thi fir le jane ki💀💀,1,49,10,2,0,0,chandan bhai ki puri koshish thi fir le jane ki💀💀,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.6146948337554932}",neutral,0.6146948337554932
+"Under the table to nahi, but khule aam Le liya🤪 38:37",2,53,11,1,0,0,"under the table to nahi, but khule aam le liya🤪 38:37",0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.777358889579773}",neutral,0.777358889579773
+I watched this under 1 million ☠️📈,1,34,7,2,0,0,i watched this under 1 million ☠️📈,0.0,Neutral,"{'emotion': 'joy', 'emotion_score': 0.84076327085495}",joy,0.84076327085495
+SPEAK UP ABOUT SONAM WANGCHUK AND THE SACRIFICE HE IS MAKING FOR THE  EDUCATION SYSTEM,71,86,15,0,0,0,speak up about sonam wangchuk and the sacrifice he is making for the education system,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.9115742444992065}",neutral,0.9115742444992065
+"Nice show yaar, mera break up ho gya aj or soch raha tha uski bina meh mar jaunga but after i see this show main usko khud call karke bola jaha jao ma chu*ao😂",1,158,34,1,0,0,"nice show yaar, mera break up ho gya aj or soch raha tha uski bina meh mar jaunga but after i see this show main usko khud call karke bola jaha jao ma chu*ao😂",0.6808,Positive,"{'emotion': 'sadness', 'emotion_score': 0.7109739780426025}",sadness,0.7109739780426025
+Yesss sirrrr 💅🏻😭😋,1,17,3,3,0,0,yesss sirrrr 💅🏻😭😋,-0.4767,Negative,"{'emotion': 'neutral', 'emotion_score': 0.2929764688014984}",neutral,0.2929764688014984
+Amazing hai yaar 2 3 baar dekh liya giny kitni kuchu puchuuu hai ywar ❤,1,71,15,1,0,0,amazing hai yaar 2 3 baar dekh liya giny kitni kuchu puchuuu hai ywar ❤,0.8402,Positive,"{'emotion': 'joy', 'emotion_score': 0.7835853099822998}",joy,0.7835853099822998
+The worst episode ever from IGL... 👎😭..,4,39,7,2,0,0,the worst episode ever from igl... 👎😭..,-0.802,Negative,"{'emotion': 'disgust', 'emotion_score': 0.6722744107246399}",disgust,0.6722744107246399
+Sirf blanders pride ka ads aa raha hei 🙄,1,40,9,1,0,0,sirf blanders pride ka ads aa raha hei 🙄,0.34,Positive,"{'emotion': 'joy', 'emotion_score': 0.6229425668716431}",joy,0.6229425668716431
+21:09 pehele chalo 😂,0,20,4,1,0,0,21:09 pehele chalo 😂,0.4404,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8543520569801331}",neutral,0.8543520569801331
+57:24 ye bohot mast laga yaar 🤣🤣🤣🤣,0,34,7,4,0,0,57:24 ye bohot mast laga yaar 🤣🤣🤣🤣,0.9153,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7371248006820679}",neutral,0.7371248006820679
+Next video tak upload kro ge bhai 😢,1,35,8,1,0,0,next video tak upload kro ge bhai 😢,-0.4767,Negative,"{'emotion': 'neutral', 'emotion_score': 0.9020971655845642}",neutral,0.9020971655845642
+Awesome work,1,12,2,0,0,0,awesome work,0.6249,Positive,"{'emotion': 'joy', 'emotion_score': 0.730225682258606}",joy,0.730225682258606
+7:50 amit bhai for crazy xyz😅,0,29,6,1,0,0,7:50 amit bhai for crazy xyz😅,0.0258,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.5667134523391724}",neutral,0.5667134523391724
+Ek baar 20 tarek ko sonam je ke protest pe support dedo. Bechara etna sab kuch karraha hai. Kohi celebrity nahi ko sport men nahi kohi actor abe tak ek awaz tho chodo tweet tak nahi keya. En badwo ko hame ne ameer banaya aur aaj sabe palat gaye. Don’t be like them. Its our natio protect it.,6,291,58,0,0,0,ek baar 20 tarek ko sonam je ke protest pe support dedo. bechara etna sab kuch karraha hai. kohi celebrity nahi ko sport men nahi kohi actor abe tak ek awaz tho chodo tweet tak nahi keya. en badwo ko hame ne ameer banaya aur aaj sabe palat gaye. don’t be like them. its our natio protect it.,0.7003,Positive,"{'emotion': 'anger', 'emotion_score': 0.6317545175552368}",anger,0.6317545175552368
+Ep1<<<<<<ep2,1,12,1,0,0,0,ep1<<<<<<ep2,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.7896433472633362}",neutral,0.7896433472633362
+aree vaii. next episode kab dalo geee..?,0,40,7,0,0,1,aree vaii. next episode kab dalo geee..?,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.3694896399974823}",neutral,0.3694896399974823
+अगर आप CJP का प्रोटेस्ट में नहीं जाओगें तो हम भी आप का वीडियो नही देखेगे। हो सकता हैं आपको कोई फर्क न पारे पर 100 रुपया में 1 रुपया का बहुत महत्व होता है,3,153,35,0,0,0,अगर आप cjp का प्रोटेस्ट में नहीं जाओगें तो हम भी आप का वीडियो नही देखेगे। हो सकता हैं आपको कोई फर्क न पारे पर 100 रुपया में 1 रुपया का बहुत महत्व होता है,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.6224417090415955}",neutral,0.6224417090415955
+37:54 best of latent s2,0,23,5,0,0,0,37:54 best of latent s2,0.6369,Positive,"{'emotion': 'neutral', 'emotion_score': 0.884342610836029}",neutral,0.884342610836029
+Best of season 2,1,16,4,0,0,0,best of season 2,0.6369,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7786424160003662}",neutral,0.7786424160003662
+Bhai aap ne blenders Pride ke saath Collab kardiya hai kya sirf usike ad aate hain.,3,83,16,0,0,0,bhai aap ne blenders pride ke saath collab kardiya hai kya sirf usike ad aate hain.,0.34,Positive,"{'emotion': 'neutral', 'emotion_score': 0.3557080924510956}",neutral,0.3557080924510956
 "@samayrainaofficial Iss baar aisa comeback dena, with proof, ki jis cheez par asal mein behes honi chahiye, uski jagah ek comedian par Supreme Court mein mukadme chal rahe hain... 🙄
 
-What will you do, Samay Raina?",6,213,36,1,0,1,"@samayrainaofficial iss baar aisa comeback dena, with proof, ki jis cheez par asal mein behes honi chahiye, uski jagah ek comedian par supreme court mein mukadme chal rahe hain... 🙄 what will you do, samay raina?",0.7351,Positive
-Chandan is one of the best artist ❤,1,35,8,1,0,0,chandan is one of the best artist ❤,0.8555,Positive
-Bring Sharon as a judge in it,2,29,7,0,0,0,bring sharon as a judge in it,0.0,Neutral
-Gennie is too innocent yarrr 🫠😭😭😭😭❤ the way she has taken permission from samay to sit was proving how calm and innocent she is ❤❤,1,130,25,8,0,0,gennie is too innocent yarrr 🫠😭😭😭😭❤ the way she has taken permission from samay to sit was proving how calm and innocent she is ❤❤,0.8074,Positive
-Bhai kapil sharma ko bhi lekr aao show me,1,41,9,0,0,0,bhai kapil sharma ko bhi lekr aao show me,0.0,Neutral
-Bouncers be like   . Chal putle abb 😅,2,37,8,1,0,0,bouncers be like . chal putle abb 😅,0.6124,Positive
-isi baat pe ek chai ho jaaye 😂.... chandan bhai pura episode khaaa gaye ❤❤,0,74,15,3,0,0,isi baat pe ek chai ho jaaye 😂.... chandan bhai pura episode khaaa gaye ❤❤,0.9062,Positive
-Best episode ❤❤❤❤,1,17,3,4,0,0,best episode ❤❤❤❤,0.9719,Positive
-okay....everybody gotta relate bonus clips are funnier than other.😂😂😂😂😂😂😂😂,0,74,9,8,0,0,okay....everybody gotta relate bonus clips are funnier than other.😂😂😂😂😂😂😂😂,0.9806,Positive
-Ep 3 jaldi daal😡,1,16,4,1,0,0,ep 3 jaldi daal😡,0.0,Neutral
-Ep 3 kaha hain be??😡,1,20,5,1,0,2,ep 3 kaha hain be??😡,0.0,Neutral
+What will you do, Samay Raina?",6,213,36,1,0,1,"@samayrainaofficial iss baar aisa comeback dena, with proof, ki jis cheez par asal mein behes honi chahiye, uski jagah ek comedian par supreme court mein mukadme chal rahe hain... 🙄 what will you do, samay raina?",0.7351,Positive,"{'emotion': 'neutral', 'emotion_score': 0.42405155301094055}",neutral,0.42405155301094055
+Chandan is one of the best artist ❤,1,35,8,1,0,0,chandan is one of the best artist ❤,0.8555,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6356030106544495}",neutral,0.6356030106544495
+Bring Sharon as a judge in it,2,29,7,0,0,0,bring sharon as a judge in it,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.4576044976711273}",neutral,0.4576044976711273
+Gennie is too innocent yarrr 🫠😭😭😭😭❤ the way she has taken permission from samay to sit was proving how calm and innocent she is ❤❤,1,130,25,8,0,0,gennie is too innocent yarrr 🫠😭😭😭😭❤ the way she has taken permission from samay to sit was proving how calm and innocent she is ❤❤,0.8074,Positive,"{'emotion': 'joy', 'emotion_score': 0.8587623834609985}",joy,0.8587623834609985
+Bhai kapil sharma ko bhi lekr aao show me,1,41,9,0,0,0,bhai kapil sharma ko bhi lekr aao show me,0.0,Neutral,"{'emotion': 'joy', 'emotion_score': 0.5533680319786072}",joy,0.5533680319786072
+Bouncers be like   . Chal putle abb 😅,2,37,8,1,0,0,bouncers be like . chal putle abb 😅,0.6124,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7813467383384705}",neutral,0.7813467383384705
+isi baat pe ek chai ho jaaye 😂.... chandan bhai pura episode khaaa gaye ❤❤,0,74,15,3,0,0,isi baat pe ek chai ho jaaye 😂.... chandan bhai pura episode khaaa gaye ❤❤,0.9062,Positive,"{'emotion': 'joy', 'emotion_score': 0.4815574288368225}",joy,0.4815574288368225
+Best episode ❤❤❤❤,1,17,3,4,0,0,best episode ❤❤❤❤,0.9719,Positive,"{'emotion': 'neutral', 'emotion_score': 0.4701887369155884}",neutral,0.4701887369155884
+okay....everybody gotta relate bonus clips are funnier than other.😂😂😂😂😂😂😂😂,0,74,9,8,0,0,okay....everybody gotta relate bonus clips are funnier than other.😂😂😂😂😂😂😂😂,0.9806,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6267638206481934}",neutral,0.6267638206481934
+Ep 3 jaldi daal😡,1,16,4,1,0,0,ep 3 jaldi daal😡,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.49512338638305664}",neutral,0.49512338638305664
+Ep 3 kaha hain be??😡,1,20,5,1,0,2,ep 3 kaha hain be??😡,0.0,Neutral,"{'emotion': 'surprise', 'emotion_score': 0.4569295048713684}",surprise,0.4569295048713684
 "clip-paper bhi leak ho rahe h 
-thanks",0,37,7,0,0,0,clip-paper bhi leak ho rahe h thanks,0.128,Positive
-3:41 samay and blaraj bond vo mera chandan,0,42,8,0,0,0,3:41 samay and blaraj bond vo mera chandan,0.0,Neutral
-yeh bc blenders pride ka ad aa rha hai like har 10 min mei,0,58,14,0,0,0,yeh bc blenders pride ka ad aa rha hai like har 10 min mei,0.5994,Positive
-Better than 1st ep,1,18,4,0,0,0,better than 1st ep,0.4404,Positive
-Bhai Gov Ko bol paisa dene ke liye... Or kitna public ko chuna lageya bhai,4,74,15,0,0,0,bhai gov ko bol paisa dene ke liye... or kitna public ko chuna lageya bhai,0.0,Neutral
-100 lakh subscriber complete samay ji😊,0,38,6,1,0,0,100 lakh subscriber complete samay ji😊,0.7184,Positive
-Sonam sir k liye aaiye samay Raina ji,2,37,8,0,0,0,sonam sir k liye aaiye samay raina ji,0.0,Neutral
-Year iss video Pura dekh liya na to is batpe ek 1:00:00  😂,2,58,13,1,0,0,year iss video pura dekh liya na to is batpe ek 1:00:00 😂,0.4404,Positive
-भाईया सोनम वांगचुक सर भूख हड़ताल पर है कम से कम ट्वीट ही कर दो कुछ बोलो या ना बोलो मिलने भी मत जाओ कुछ तो एक दो शब्द बोल कर दो सोशल मीडिया के माध्यम से 😢😢,0,154,38,2,0,0,भाईया सोनम वांगचुक सर भूख हड़ताल पर है कम से कम ट्वीट ही कर दो कुछ बोलो या ना बोलो मिलने भी मत जाओ कुछ तो एक दो शब्द बोल कर दो सोशल मीडिया के माध्यम से 😢😢,-0.7351,Negative
-🎉 1🌚 million,0,12,3,2,0,0,🎉 1🌚 million,0.4019,Positive
-Where is episode 3,1,18,4,0,0,0,where is episode 3,0.0,Neutral
-Ek chaiiii hojaye issi baat pe bhai😂😂❤❤,1,39,7,4,0,0,ek chaiiii hojaye issi baat pe bhai😂😂❤❤,0.9349,Positive
-Gaali 8:37,1,10,2,0,0,0,gaali 8:37,0.0,Neutral
-अरे नवीन व्हिडिओ टाक ना 🎉🎉,0,26,6,2,0,0,अरे नवीन व्हिडिओ टाक ना 🎉🎉,0.6597,Positive
-## support Sonam Wangchuk,2,25,4,0,0,0,## support sonam wangchuk,0.4019,Positive
-Mc y taking so long to realest part 3,1,37,9,0,0,0,mc y taking so long to realest part 3,0.0,Neutral
-THANKYOU………,8,11,1,0,0,0,thankyou………,0.0,Neutral
-SAVE SONAM WANGCHUK SIR😢😢,20,25,4,2,0,0,save sonam wangchuk sir😢😢,-0.4588,Negative
-Bhai Spinal muscular atrophy disability vale bachho ko apne show me lao,2,71,12,0,0,0,bhai spinal muscular atrophy disability vale bachho ko apne show me lao,0.0,Neutral
-Bhai 13 din ho gay abb to daal do naya,1,38,10,0,0,0,bhai 13 din ho gay abb to daal do naya,0.0,Neutral
-Bhai Collab with munnawar🎉🎉🎉,2,28,4,3,0,0,bhai collab with munnawar🎉🎉🎉,0.7964,Positive
-Bhai Collab with munnawar🎉🎉,2,27,4,2,0,0,bhai collab with munnawar🎉🎉,0.6597,Positive
-Bhai Collab with munnawar 🎉🎉,2,28,5,2,0,0,bhai collab with munnawar 🎉🎉,0.6597,Positive
-latent ka asli contestant blenders pride,0,40,6,0,0,0,latent ka asli contestant blenders pride,0.34,Positive
-Samay bhaiya hum aapke sth h aap tension mt lo😢,1,47,10,1,0,0,samay bhaiya hum aapke sth h aap tension mt lo😢,-0.6597,Negative
+thanks",0,37,7,0,0,0,clip-paper bhi leak ho rahe h thanks,0.128,Positive,"{'emotion': 'joy', 'emotion_score': 0.4637139141559601}",joy,0.4637139141559601
+3:41 samay and blaraj bond vo mera chandan,0,42,8,0,0,0,3:41 samay and blaraj bond vo mera chandan,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.542082667350769}",neutral,0.542082667350769
+yeh bc blenders pride ka ad aa rha hai like har 10 min mei,0,58,14,0,0,0,yeh bc blenders pride ka ad aa rha hai like har 10 min mei,0.5994,Positive,"{'emotion': 'neutral', 'emotion_score': 0.3633832633495331}",neutral,0.3633832633495331
+Better than 1st ep,1,18,4,0,0,0,better than 1st ep,0.4404,Positive,"{'emotion': 'joy', 'emotion_score': 0.5616012215614319}",joy,0.5616012215614319
+Bhai Gov Ko bol paisa dene ke liye... Or kitna public ko chuna lageya bhai,4,74,15,0,0,0,bhai gov ko bol paisa dene ke liye... or kitna public ko chuna lageya bhai,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.8234995603561401}",neutral,0.8234995603561401
+100 lakh subscriber complete samay ji😊,0,38,6,1,0,0,100 lakh subscriber complete samay ji😊,0.7184,Positive,"{'emotion': 'joy', 'emotion_score': 0.543624758720398}",joy,0.543624758720398
+Sonam sir k liye aaiye samay Raina ji,2,37,8,0,0,0,sonam sir k liye aaiye samay raina ji,0.0,Neutral,"{'emotion': 'joy', 'emotion_score': 0.47698432207107544}",joy,0.47698432207107544
+Year iss video Pura dekh liya na to is batpe ek 1:00:00  😂,2,58,13,1,0,0,year iss video pura dekh liya na to is batpe ek 1:00:00 😂,0.4404,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8355986475944519}",neutral,0.8355986475944519
+भाईया सोनम वांगचुक सर भूख हड़ताल पर है कम से कम ट्वीट ही कर दो कुछ बोलो या ना बोलो मिलने भी मत जाओ कुछ तो एक दो शब्द बोल कर दो सोशल मीडिया के माध्यम से 😢😢,0,154,38,2,0,0,भाईया सोनम वांगचुक सर भूख हड़ताल पर है कम से कम ट्वीट ही कर दो कुछ बोलो या ना बोलो मिलने भी मत जाओ कुछ तो एक दो शब्द बोल कर दो सोशल मीडिया के माध्यम से 😢😢,-0.7351,Negative,"{'emotion': 'neutral', 'emotion_score': 0.4795864224433899}",neutral,0.4795864224433899
+🎉 1🌚 million,0,12,3,2,0,0,🎉 1🌚 million,0.4019,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6899614334106445}",neutral,0.6899614334106445
+Where is episode 3,1,18,4,0,0,0,where is episode 3,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.863178014755249}",neutral,0.863178014755249
+Ek chaiiii hojaye issi baat pe bhai😂😂❤❤,1,39,7,4,0,0,ek chaiiii hojaye issi baat pe bhai😂😂❤❤,0.9349,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6499951481819153}",neutral,0.6499951481819153
+Gaali 8:37,1,10,2,0,0,0,gaali 8:37,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.5311127305030823}",neutral,0.5311127305030823
+अरे नवीन व्हिडिओ टाक ना 🎉🎉,0,26,6,2,0,0,अरे नवीन व्हिडिओ टाक ना 🎉🎉,0.6597,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6758928894996643}",neutral,0.6758928894996643
+## support Sonam Wangchuk,2,25,4,0,0,0,## support sonam wangchuk,0.4019,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8782329559326172}",neutral,0.8782329559326172
+Mc y taking so long to realest part 3,1,37,9,0,0,0,mc y taking so long to realest part 3,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.6077093482017517}",neutral,0.6077093482017517
+THANKYOU………,8,11,1,0,0,0,thankyou………,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.5077084302902222}",neutral,0.5077084302902222
+SAVE SONAM WANGCHUK SIR😢😢,20,25,4,2,0,0,save sonam wangchuk sir😢😢,-0.4588,Negative,"{'emotion': 'neutral', 'emotion_score': 0.8760975003242493}",neutral,0.8760975003242493
+Bhai Spinal muscular atrophy disability vale bachho ko apne show me lao,2,71,12,0,0,0,bhai spinal muscular atrophy disability vale bachho ko apne show me lao,0.0,Neutral,"{'emotion': 'sadness', 'emotion_score': 0.6313132047653198}",sadness,0.6313132047653198
+Bhai 13 din ho gay abb to daal do naya,1,38,10,0,0,0,bhai 13 din ho gay abb to daal do naya,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.7440181374549866}",neutral,0.7440181374549866
+Bhai Collab with munnawar🎉🎉🎉,2,28,4,3,0,0,bhai collab with munnawar🎉🎉🎉,0.7964,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6631090044975281}",neutral,0.6631090044975281
+Bhai Collab with munnawar🎉🎉,2,27,4,2,0,0,bhai collab with munnawar🎉🎉,0.6597,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6579332947731018}",neutral,0.6579332947731018
+Bhai Collab with munnawar 🎉🎉,2,28,5,2,0,0,bhai collab with munnawar 🎉🎉,0.6597,Positive,"{'emotion': 'neutral', 'emotion_score': 0.5709776878356934}",neutral,0.5709776878356934
+latent ka asli contestant blenders pride,0,40,6,0,0,0,latent ka asli contestant blenders pride,0.34,Positive,"{'emotion': 'neutral', 'emotion_score': 0.6708101630210876}",neutral,0.6708101630210876
+Samay bhaiya hum aapke sth h aap tension mt lo😢,1,47,10,1,0,0,samay bhaiya hum aapke sth h aap tension mt lo😢,-0.6597,Negative,"{'emotion': 'joy', 'emotion_score': 0.5687755346298218}",joy,0.5687755346298218
 "Abhi tak ka sab se belar episode 
-Not funny",2,43,9,0,0,0,abhi tak ka sab se belar episode not funny,-0.3412,Negative
+Not funny",2,43,9,0,0,0,abhi tak ka sab se belar episode not funny,-0.3412,Negative,"{'emotion': 'surprise', 'emotion_score': 0.4943472445011139}",surprise,0.4943472445011139
 "Samay bhai 
-Please 🙏 support Sonam sir and CJP",6,46,9,1,0,0,samay bhai please 🙏 support sonam sir and cjp,0.6124,Positive
-One and only guest kesari lal yadav 👍🏻 plz,1,42,9,1,0,0,one and only guest kesari lal yadav 👍🏻 plz,0.0772,Positive
+Please 🙏 support Sonam sir and CJP",6,46,9,1,0,0,samay bhai please 🙏 support sonam sir and cjp,0.6124,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7043051719665527}",neutral,0.7043051719665527
+One and only guest kesari lal yadav 👍🏻 plz,1,42,9,1,0,0,one and only guest kesari lal yadav 👍🏻 plz,0.0772,Positive,"{'emotion': 'sadness', 'emotion_score': 0.784825325012207}",sadness,0.784825325012207
 "show tyming 2 hour - 1 hour latent
-1 hour blender pride 😂",0,57,13,1,0,0,show tyming 2 hour - 1 hour latent 1 hour blender pride 😂,0.6486,Positive
-Bring trump plz,1,15,3,0,0,0,bring trump plz,0.0772,Positive
-Samay bhai Zayn saifi ko bualo r2h ke Zayn saifi ko 😂😂😂,3,55,12,3,0,0,samay bhai zayn saifi ko bualo r2h ke zayn saifi ko 😂😂😂,0.8271,Positive
-Has has k pagal ho gyi😂 bonus was the best part,1,47,11,1,0,0,has has k pagal ho gyi😂 bonus was the best part,0.891,Positive
-Bncd smay ye blenders pride ki ad hi kyo dikhati hai.,1,53,11,0,0,0,bncd smay ye blenders pride ki ad hi kyo dikhati hai.,0.34,Positive
-10 million ho gaye,0,18,4,0,0,0,10 million ho gaye,0.0,Neutral
-"imagine chandu , kapil and akshay kumar sir on the panel",0,56,11,0,0,0,"imagine chandu , kapil and akshay kumar sir on the panel",0.0,Neutral
-3 episode kab aayega.????,0,25,4,0,0,4,3 episode kab aayega.????,0.0,Neutral
-3rd episode??????????,0,21,2,0,0,10,3rd episode??????????,0.0,Neutral
-Superb,1,6,1,0,0,0,superb,0.6249,Positive
-Bro just imagine if CarryMinati and Round2Hell appeared on *India's Got Talent* 💀,8,81,13,1,0,0,bro just imagine if carryminati and round2hell appeared on *india's got talent* 💀,0.4215,Positive
-Bhai . Bhehan chood mat bola Karo meri bahen bhi dekhthi hai mat bola Karo,4,74,15,0,0,0,bhai . bhehan chood mat bola karo meri bahen bhi dekhthi hai mat bola karo,0.0,Neutral
-Blendors pride kii mkc,1,22,4,0,0,0,blendors pride kii mkc,0.34,Positive
+1 hour blender pride 😂",0,57,13,1,0,0,show tyming 2 hour - 1 hour latent 1 hour blender pride 😂,0.6486,Positive,"{'emotion': 'neutral', 'emotion_score': 0.873927116394043}",neutral,0.873927116394043
+Bring trump plz,1,15,3,0,0,0,bring trump plz,0.0772,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7771275639533997}",neutral,0.7771275639533997
+Samay bhai Zayn saifi ko bualo r2h ke Zayn saifi ko 😂😂😂,3,55,12,3,0,0,samay bhai zayn saifi ko bualo r2h ke zayn saifi ko 😂😂😂,0.8271,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8102061748504639}",neutral,0.8102061748504639
+Has has k pagal ho gyi😂 bonus was the best part,1,47,11,1,0,0,has has k pagal ho gyi😂 bonus was the best part,0.891,Positive,"{'emotion': 'joy', 'emotion_score': 0.8748818635940552}",joy,0.8748818635940552
+Bncd smay ye blenders pride ki ad hi kyo dikhati hai.,1,53,11,0,0,0,bncd smay ye blenders pride ki ad hi kyo dikhati hai.,0.34,Positive,"{'emotion': 'joy', 'emotion_score': 0.6962316632270813}",joy,0.6962316632270813
+10 million ho gaye,0,18,4,0,0,0,10 million ho gaye,0.0,Neutral,"{'emotion': 'joy', 'emotion_score': 0.6789847016334534}",joy,0.6789847016334534
+"imagine chandu , kapil and akshay kumar sir on the panel",0,56,11,0,0,0,"imagine chandu , kapil and akshay kumar sir on the panel",0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.7995955348014832}",neutral,0.7995955348014832
+3 episode kab aayega.????,0,25,4,0,0,4,3 episode kab aayega.????,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.5307280421257019}",neutral,0.5307280421257019
+3rd episode??????????,0,21,2,0,0,10,3rd episode??????????,0.0,Neutral,"{'emotion': 'surprise', 'emotion_score': 0.6968967914581299}",surprise,0.6968967914581299
+Superb,1,6,1,0,0,0,superb,0.6249,Positive,"{'emotion': 'neutral', 'emotion_score': 0.45593032240867615}",neutral,0.45593032240867615
+Bro just imagine if CarryMinati and Round2Hell appeared on *India's Got Talent* 💀,8,81,13,1,0,0,bro just imagine if carryminati and round2hell appeared on *india's got talent* 💀,0.4215,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8745104670524597}",neutral,0.8745104670524597
+Blendors pride kii mkc,1,22,4,0,0,0,blendors pride kii mkc,0.34,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7118985056877136}",neutral,0.7118985056877136
 "Samay sir.. 
 do you watch your dance short on vachidamma song 
 Watch it 😂
- it's amazing 🤩",2,89,17,2,0,0,samay sir.. do you watch your dance short on vachidamma song watch it 😂 it's amazing 🤩,0.7717,Positive
-Sonam Wangchuk ko support karne ki video kab banaogii?,2,54,9,0,0,1,sonam wangchuk ko support karne ki video kab banaogii?,0.4019,Positive
-Chand show king❤,1,16,3,1,0,0,chand show king❤,0.6369,Positive
-Please sir ak video banau Sonam Wangchuk ki hunger protest ka par please sir this was a very good person,3,104,20,0,0,0,please sir ak video banau sonam wangchuk ki hunger protest ka par please sir this was a very good person,0.5849,Positive
-Chandan ka future kya hoga agar platform free ho,1,48,9,0,0,0,chandan ka future kya hoga agar platform free ho,0.5106,Positive
-Waste of time,1,13,3,0,0,0,waste of time,-0.4215,Negative
-"Bhai 3rd episode kab aae ga ,?",1,30,7,0,0,1,"bhai 3rd episode kab aae ga ,?",0.0,Neutral
-where do i watch the full episodes,0,34,7,0,0,0,where do i watch the full episodes,0.0,Neutral
-love this show feels good it is back,0,36,8,0,0,0,love this show feels good it is back,0.7964,Positive
-बलराज कुछ याद आया 😂,0,19,5,1,0,0,बलराज कुछ याद आया 😂,0.4404,Positive
-The day op sunil grover come on the show samay will hide under his shadow.,1,74,15,0,0,0,the day op sunil grover come on the show samay will hide under his shadow.,-0.1779,Negative
-Saste popper hai 😂,1,18,4,1,0,0,saste popper hai 😂,0.4404,Positive
-yr samay Raina kya cheez h yr mst comedy 😂😂😂,1,44,10,3,0,0,yr samay raina kya cheez h yr mst comedy 😂😂😂,0.8807,Positive
-Desh me 1400m log h,1,19,5,0,0,0,desh me 1400m log h,0.0,Neutral
-Balraj is a true gentleman,1,26,5,0,0,0,balraj is a true gentleman,0.4215,Positive
-23:30 chandu sir rocks ❤😂😂😂🤣🤣,0,29,5,6,0,0,23:30 chandu sir rocks ❤😂😂😂🤣🤣,0.9601,Positive
-pov lisining 17:18  at 2x speed,0,31,6,0,0,0,pov lisining 17:18 at 2x speed,0.0,Neutral
-Who saw the DISCLAIMER Page - Last Line 💀,14,41,9,1,0,0,who saw the disclaimer page - last line 💀,0.0,Neutral
-Kiko ki shayri ❤,1,16,4,1,0,0,kiko ki shayri ❤,0.6369,Positive
-Mazaaa agayaa 😂bss ek cup chai ho jatii to,1,42,9,1,0,0,mazaaa agayaa 😂bss ek cup chai ho jatii to,-0.2263,Negative
-Bhai kapil sharma ka sho kha jaoge tum to 😅😅,1,44,10,2,0,0,bhai kapil sharma ka sho kha jaoge tum to 😅😅,0.6124,Positive
-asdf,0,4,1,0,0,0,asdf,0.0,Neutral
-"Minimum charge Krna padega youtube pr 
-
-Nhi to fokat me fir hoti rhegi.
-
-Kyun fan k beech me kuch kuch cooler bhi hote h",4,120,24,0,0,0,minimum charge krna padega youtube pr nhi to fokat me fir hoti rhegi. kyun fan k beech me kuch kuch cooler bhi hote h,0.3182,Positive
-Bhaii lateral entry wale 3 saal ka polytechnic ke baraberi hi hota h kya Mtlab jahan 3 saal ka polytechnic manga ho wahan allow hoga kya???,2,139,26,0,0,3,bhaii lateral entry wale 3 saal ka polytechnic ke baraberi hi hota h kya mtlab jahan 3 saal ka polytechnic manga ho wahan allow hoga kya???,0.3485,Positive
-chintan was such a confident and great guy,0,42,8,0,0,0,chintan was such a confident and great guy,0.8074,Positive
-Samay Bhai editing thoda sambhal ke karna Hunger strike se distract krne ke liye abhi Fine impose hua hai ky pata vpis Show ke peeche padjae ek joke ko leke,5,156,30,0,0,0,samay bhai editing thoda sambhal ke karna hunger strike se distract krne ke liye abhi fine impose hua hai ky pata vpis show ke peeche padjae ek joke ko leke,-0.4404,Negative
-Samay raina ko phir lage loude bhai tu Dubai chla ja,2,52,11,0,0,0,samay raina ko phir lage loude bhai tu dubai chla ja,0.0,Neutral
-53:29 She's Safe From Every NAZAR 🧿,9,35,7,1,0,0,53:29 she's safe from every nazar 🧿,0.4404,Positive
+ it's amazing 🤩",2,89,17,2,0,0,samay sir.. do you watch your dance short on vachidamma song watch it 😂 it's amazing 🤩,0.7717,Positive,"{'emotion': 'surprise', 'emotion_score': 0.5977675318717957}",surprise,0.5977675318717957
+Sonam Wangchuk ko support karne ki video kab banaogii?,2,54,9,0,0,1,sonam wangchuk ko support karne ki video kab banaogii?,0.4019,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7581807374954224}",neutral,0.7581807374954224
+Chand show king❤,1,16,3,1,0,0,chand show king❤,0.6369,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7790132761001587}",neutral,0.7790132761001587
+Please sir ak video banau Sonam Wangchuk ki hunger protest ka par please sir this was a very good person,3,104,20,0,0,0,please sir ak video banau sonam wangchuk ki hunger protest ka par please sir this was a very good person,0.5849,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7036178708076477}",neutral,0.7036178708076477
+Chandan ka future kya hoga agar platform free ho,1,48,9,0,0,0,chandan ka future kya hoga agar platform free ho,0.5106,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8579374551773071}",neutral,0.8579374551773071
+Waste of time,1,13,3,0,0,0,waste of time,-0.4215,Negative,"{'emotion': 'sadness', 'emotion_score': 0.32330188155174255}",sadness,0.32330188155174255
+"Bhai 3rd episode kab aae ga ,?",1,30,7,0,0,1,"bhai 3rd episode kab aae ga ,?",0.0,Neutral,"{'emotion': 'surprise', 'emotion_score': 0.45587316155433655}",surprise,0.45587316155433655
+where do i watch the full episodes,0,34,7,0,0,0,where do i watch the full episodes,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.8157814741134644}",neutral,0.8157814741134644
+love this show feels good it is back,0,36,8,0,0,0,love this show feels good it is back,0.7964,Positive,"{'emotion': 'joy', 'emotion_score': 0.9687497019767761}",joy,0.9687497019767761
+बलराज कुछ याद आया 😂,0,19,5,1,0,0,बलराज कुछ याद आया 😂,0.4404,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7893657684326172}",neutral,0.7893657684326172
+The day op sunil grover come on the show samay will hide under his shadow.,1,74,15,0,0,0,the day op sunil grover come on the show samay will hide under his shadow.,-0.1779,Negative,"{'emotion': 'sadness', 'emotion_score': 0.5107397437095642}",sadness,0.5107397437095642
+Saste popper hai 😂,1,18,4,1,0,0,saste popper hai 😂,0.4404,Positive,"{'emotion': 'neutral', 'emotion_score': 0.7606967091560364}",neutral,0.7606967091560364
+yr samay Raina kya cheez h yr mst comedy 😂😂😂,1,44,10,3,0,0,yr samay raina kya cheez h yr mst comedy 😂😂😂,0.8807,Positive,"{'emotion': 'joy', 'emotion_score': 0.7418487668037415}",joy,0.7418487668037415
+Desh me 1400m log h,1,19,5,0,0,0,desh me 1400m log h,0.0,Neutral,"{'emotion': 'neutral', 'emotion_score': 0.8682721257209778}",neutral,0.8682721257209778
+Balraj is a true gentleman,1,26,5,0,0,0,balraj is a true gentleman,0.4215,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8995639085769653}",neutral,0.8995639085769653
+23:28 chandu sir rocks ❤😂😂😂🤣🤣,0,29,5,6,0,0,23:28 chandu sir rocks ❤😂😂😂🤣🤣,0.9601,Positive,"{'emotion': 'neutral', 'emotion_score': 0.8445450663566589}",neutral,0.8445450663566589
