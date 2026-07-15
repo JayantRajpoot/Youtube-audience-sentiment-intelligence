@@ -6,6 +6,6 @@
 - [x] Create GitHub repository
 - [x] Setup virtual environment
 - [x] Setup project structure
-- [ ] Connect to YouTube API
-- [ ] Fetch video metadata
+- [x] Connect to YouTube API
+- [x] Fetch video metadata
 - [ ] Save raw JSON
