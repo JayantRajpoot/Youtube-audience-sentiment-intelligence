@@ -23,10 +23,23 @@ The application uses the YouTube Data API to collect comments, processes them us
 
 ## Dashboard Preview
 
-![Dashboard Overview](assets/dashboard.png)
+![Dashboard Overview](images/dashboard.png)
+
+
+## Video Overview & KPI Cards
+
+![Video Overview](images/video_overview.png)
+
+## AI Insights
+
+![AI Insights](images/insights.png)
+
+
+## Comments Explorer
+
+![Comments Explorer](images/comments_explorer.png)
 
 ---
-
 ## Tech Stack
 
 **Languages**
