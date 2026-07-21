@@ -1,6 +1,13 @@
+import streamlit as st
 from detoxify import Detoxify
 
-toxicity_model = Detoxify("unbiased")
+
+@st.cache_resource
+def load_toxicity_model():
+    return Detoxify("unbiased")
+
+
+toxicity_model = load_toxicity_model()
 
 
 def analyze_toxicity(text):

@@ -19,12 +19,8 @@ def get_video_metadata(video_id):
         "published_at": snippet["publishedAt"],
         "description": snippet["description"],
         "views": statistics["viewCount"],
-        "comment_count": statistics["commentCount"]
+        "comment_count": statistics["commentCount"],
+        "thumbnail": snippet["thumbnails"]["high"]["url"]
     }
 
     return video_metadata
-
-
-# Testing
-metadata = get_video_metadata("c35fpGWqXnk")
-print(metadata)
