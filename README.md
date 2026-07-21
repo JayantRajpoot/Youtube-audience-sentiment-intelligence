@@ -162,7 +162,7 @@ Interactive Dashboard
 
 ## Author
 
-**Jayant Rajput**
+**Jayant Rajpoot**
 
 BCA Student | Aspiring Data Analyst
 
