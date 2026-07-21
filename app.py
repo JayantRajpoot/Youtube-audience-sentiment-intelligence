@@ -1,14 +1,28 @@
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+import nltk
+
+resources = [
+    ("corpora/stopwords", "stopwords"),
+    ("tokenizers/punkt", "punkt"),
+    ("tokenizers/punkt_tab", "punkt_tab"),
+    ("corpora/wordnet", "wordnet"),
+    ("corpora/omw-1.4", "omw-1.4"),
+]
+
+for path, name in resources:
+    try:
+        nltk.data.find(path)
+    except LookupError:
+        nltk.download(name)
+
 from src.pipeline.analyze_video import analyze_video
 from src.utils.youtube_parser import extract_video_id
 from src.data_collection.metadata import get_video_metadata
 from src.visualization.wordcloud_visualization import generate_wordcloud
 from src.analysis.emoji_analysis import get_emoji_frequency
 from src.analysis.audience_summary import generate_audience_summary
-
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-
 
 # =====================================
 # Page Config (MUST BE FIRST)
