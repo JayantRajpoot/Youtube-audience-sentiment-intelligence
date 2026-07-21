@@ -6,6 +6,12 @@ The application uses the YouTube Data API to collect comments, processes them us
 
 ---
 
+# 🎥 YouTube Audience Intelligence
+
+🚀 **Live Demo:** https://youtube-audience-sentiment-intelligence-9nnpmx32d3agyb4bnbogbf.streamlit.app/
+
+📂 **GitHub Repository:** https://github.com/JayantRajpoot/Youtube-audience-sentiment-intelligence
+
 ## Features
 
 - Analyze comments from any public YouTube video
